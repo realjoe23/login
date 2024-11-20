@@ -1,0 +1,21 @@
+
+body{
+    display: flex;
+    height: 100vh;
+    align-content: center;
+    background: linear-gradient(to bottom, #939392, #3481b2);
+}
+
+img{
+    background-color: white;
+    width: 200px;
+    height: 200px;
+
+    border: 5px solid black;
+    padding: 5%;
+    margin: 100px;
+}
+
+p{
+    color: white;
+}
